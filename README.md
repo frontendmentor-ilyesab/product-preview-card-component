@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-Np8QvQrNyx)
+- Live Site URL: [Live Site URL](https://frontendmentor-ilyesab.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -69,7 +69,7 @@ I didn't use either in this challenge as it seemed I achieved something close to
 
 #### Responsively Screenshot
 
-![Responsively Screenshot](./screenshot_responsively.png)
+![Responsively Screenshot](./screenshot_responsively_showcase.png)
 
 ## Author
 
